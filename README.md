@@ -62,5 +62,6 @@
 
 ![изображение](https://github.com/user-attachments/assets/94bd1bfc-c9e9-4bf3-af83-94b086c281ce)
 
-
+## Результат (.gif)
+![изображение](./preview.gif)
 
