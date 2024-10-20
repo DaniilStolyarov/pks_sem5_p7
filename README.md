@@ -55,8 +55,11 @@
 
 ### Шаг 3. Вёрстка страниц Главная, Корзина, Профиль
 Вот что у меня получилось:
+
 ![изображение](https://github.com/user-attachments/assets/05254aeb-a878-4008-bcd8-7a21a3d65a2e)
+
 ![изображение](https://github.com/user-attachments/assets/ccdd2e67-54e3-4ff5-91c3-38fa9c35c08c)
+
 ![изображение](https://github.com/user-attachments/assets/94bd1bfc-c9e9-4bf3-af83-94b086c281ce)
 
 
