@@ -1,6 +1,6 @@
 import "package:med_app/model/cart_item.dart";
 import "package:med_app/model/service.dart";
-
+import "../pages/cart.dart";
 class GlobalData {
   List<Service> services = [
     Service(
@@ -11,7 +11,7 @@ class GlobalData {
   ];
 
   List<CartItem> cartItems = [];
-
+  CartPageState? cartState;
   GlobalData() {
     cartItems.addAll([CartItem(services[1], 1), CartItem(services[0], 1)]);
   }

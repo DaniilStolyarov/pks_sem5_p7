@@ -16,8 +16,8 @@ class ProfileMenuItem extends StatelessWidget {
       child: Row(
         children: [
           Image.asset(iconAssetPath),
-          SizedBox(width: 20,),
-          Text(label, style: TextStyle(
+          const SizedBox(width: 20,),
+          Text(label, style: const TextStyle(
             fontFamily: "Montserrat",
             fontSize: 17,
             height: 24/17,
